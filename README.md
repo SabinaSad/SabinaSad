@@ -39,5 +39,5 @@
 <a href="mailto:sefendiyeva@gmail.com">  
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
 </a>
-![image](https://github.com/SabinaSad/SabinaSad/assets/122239926/eb301cf5-f8ba-4b3f-9439-6b851d1fd563)
+
 
