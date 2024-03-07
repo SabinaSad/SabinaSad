@@ -41,3 +41,5 @@
 </a>
 
 
+[Just IT Certificate of Achievement - Skills Bootcamps in Data Technician_Sabina.pdf](https://github.com/SabinaSad/SabinaSad/files/14529460/Just.IT.Certificate.of.Achievement.-.Skills.Bootcamps.in.Data.Technician_Sabina.pdf)
+
