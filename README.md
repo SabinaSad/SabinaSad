@@ -1,4 +1,4 @@
-<div align="center"> <h1 align="center"> Hi There! I am a passionate Data Analyst 👋 </h1> </div>
+<div align="center"> <h1 align="center"> Hi There! I am an aspiring Data Analyst 👋 </h1> </div>
 <b>Hi, My name is Sabina. I am a data analyst. <b>
 
 <p></p>
